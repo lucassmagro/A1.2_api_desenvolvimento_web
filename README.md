@@ -33,13 +33,13 @@ O projeto consiste em uma interface responsiva que consome a API pública da YTS
 
 O projeto foi desenvolvido para cumprir os seguintes requisitos da avaliação:
 
-- **Interface HTML responsiva:**
+- **Interface HTML responsiva**
 - **Integração front-end x API back-end:**
   - **Integração com no mínimo 3 métodos da API:** Foram utilizados endpoints para listar filmes (com diferentes filtros) e para buscar detalhes de um filme específico.
   - **Exibição de dados com repetição:** Implementada na exibição das listas de filmes.
   - **Exibição de dados sem repetição:** Implementada na página de detalhes de cada filme.
   - **Chamada de método com e sem filtros:** Utilizada nas funcionalidades de busca e filtragem por gênero.
-- **Identificação:**
+- **Identificação**
 
 ---
 
